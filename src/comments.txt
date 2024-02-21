@@ -1,0 +1,34 @@
+cntr + d копирует и вставляет строку вниз
+cntr + y удалить строку
+cntr + x вырезать и скопировать
+cntr + alt + l выровнить код
+
+Sistem.out.print("""
+         000
+         000
+""")
+
+String str = "hello";
+System.out.print(str);
+
+ctrl + /
+ctrl + shift + /
+ctrl + alt + l
+alt + enter упростить
+
+        целочисленные
+        byte var1 = 127;
+        short var2 = 32767;
+        int var3 = 2147480253;
+        long var4 = 6684239869454432632L;
+
+        с плав. точкой
+        float var5 = 1.52305F;
+        double var6 = 3543642363236.643296224396432;
+
+        символы
+        char var7 = 'a';
+
+        boolean var8 = false;
+
+        toUpperCase будет считать буквы как большие
