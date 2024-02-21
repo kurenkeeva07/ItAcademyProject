@@ -17,6 +17,7 @@ public class Homework14 {
             } else if (array[i] == max) {
                 amount++;
             }
+
         }
         System.out.println("Maximum of elements: " + max);
         System.out.println("Amount of elements: " + count);
