@@ -26,7 +26,7 @@ public class Circle {
     }
 
     public void setTransparent(boolean transparent) {
-        isTransparent = transparent;
+        this.isTransparent = transparent;
         if (!transparent)
             System.out.println("yes");
         else {
